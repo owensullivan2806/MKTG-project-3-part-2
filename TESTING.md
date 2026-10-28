@@ -1,0 +1,11 @@
+# Verification record
+
+October 27, 2026. Initial automated suite: 13 passing tests, including independently hand-calculated one- and two-product models, direct/shared allocation, annualization, startup cash and optional depreciation, disabled costs, bundle drivers, percentage fees, zero volume, zero/negative contribution, mixed break-even, fixed cost invariance across volume scenarios, competitor normalization, input validation, immutable snapshots and a genuine DOCX ZIP with ten sections and matching pricing/snapshot fields.
+
+Actual Chrome browser checks: research loaded; numeric edits recalculate immediately; second product and bundle quantity; volume/revenue allocation; break-even and sensitivity charts; category drilldown; expense amount/evidence/frequency/classification edits; custom cost add/delete; default restoration; operating-profile switching; student volume scenarios; custom saved profile; required justification and major-warning acknowledgment; isolated QA confirmation; DOCX and JSON downloads; changing price after confirmation marks review stale and hides exports; $1 selling price produces no finite break-even and the unsustainable classification. Downloaded files were read from Downloads and their matching snapshot ID, statement, prices and financial totals checked. DOCX rendered to nine pages with every page inspected; table split/spacing issues found in this pass were corrected before final production export verification.
+
+In-app browser checks: normal local workspace retained a $33 test edit after reload, then restored to defaults without confirmation. At 390×844, viewport width and document scroll width both measured 390; navigation scrolls horizontally and cards stack. Desktop layout and charts inspected visually.
+
+Configuration backup downloaded successfully. Chrome automation's file chooser could not select the backup because the ChatGPT extension does not have file URL access; that permission was not changed. Import syntax/model validation is covered by automated checks, but this does not count as a completed browser import test.
+
+Production build copies all static application/research/vendor files to dist/ and docs/. Final live checks are recorded below after deployment.
